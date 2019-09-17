@@ -1,0 +1,6 @@
+2005018,Clara Callan,book,Author=Richard Bruce Wright,Publisher=HarperFlamingo Canada,Year=2001
+2251760,The Forgetting Room: A Fiction (Byzantium Book),book,Author=Nick Bantock,Publisher=Harpercollins,Year=1997
+2255081,Spadework,book,Author=Timothy Findley,Publisher=HarperFlamingo Canada,Year=2001
+2257203,Restraint of Beasts,book,Author=Magnus Mills,Publisher=Harpercollins Uk,Year=0
+2259834,Miss Wyoming Uk Edition,book,Author=Douglas Coupland,Publisher=Harpercollins Publisher,Year=0
+2558122,Angelas Ashes,book,Author=Frank Mccourt,Publisher=Harpercollins Australia,Year=0
